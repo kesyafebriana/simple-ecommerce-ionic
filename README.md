@@ -1,5 +1,7 @@
 # Simple e-Commerce Application using Ionic and React
 
+![Screenshot of the app](screenshot/screenshot.png)
+
 This project is my midterm solo project for the Mobile Cross Platform class. It's a simple e-Commerce application built with Ionic and React.
 
 ## Project Description
@@ -51,9 +53,6 @@ Once you've installed the project and its dependencies, you can run it with the 
    ```
 This will start a development server, and you can access the application in your web browser at http://localhost:8100.
 
-## Screenshots
-
-![Screenshot of the app](screenshot/screenshot.png)
 
 ## Technologies Used
 
