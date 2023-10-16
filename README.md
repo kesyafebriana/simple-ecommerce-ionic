@@ -53,7 +53,7 @@ This will start a development server, and you can access the application in your
 
 ## Screenshots
 
-(If you have screenshots of your application, you can include them here.)
+![Screenshot of the app](screenshots/screenshot.png)
 
 ## Technologies Used
 
