@@ -48,7 +48,7 @@ Once you've installed the project and its dependencies, you can run it with the 
 
    ```bash
    ionic serve
-
+   ```
 This will start a development server, and you can access the application in your web browser at http://localhost:8100.
 
 ## Screenshots
