@@ -39,3 +39,23 @@ To install and run this project locally, follow these steps:
    ```bash
    cd your-repo
 
+3. Install project dependencies using npm:
+   ```bash
+   npm install
+   
+## Usage
+Once you've installed the project and its dependencies, you can run it with the following command:
+
+   ```bash
+   ionic serve
+
+This will start a development server, and you can access the application in your web browser at http://localhost:8100.
+
+## Screenshots
+
+(If you have screenshots of your application, you can include them here.)
+
+## Technologies Used
+
+- Ionic
+- React
